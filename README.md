@@ -1,2 +1,2 @@
-# redux-tinder
-React + Redux training app based on tinder like behaviour
+# redux-weahter learning app
+React + Redux training app that displays weather information for given cities
